@@ -1,9 +1,5 @@
 # Greek_Weather_Analysis
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GDMarkou/Greek_Weather_Analysis/blob/main/greek_weather_analysis.ipynb)
-
-This project was implemented as part of the "Applied Machine Learning" course, which was provided by the Department of Management Science &amp; Technology at the Athens University of Economics and Business.
-
 This project was implemented during the course "Applied Machine Learning", offered by the Department of Management Science & Technology of the Athens University of Economics and Business.
 
 ## Purpose
